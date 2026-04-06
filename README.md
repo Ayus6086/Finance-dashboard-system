@@ -1,4 +1,4 @@
-# 💰 Finance Dashboard System
+# Finance Dashboard System
 
 ## 🚀 Overview
 
